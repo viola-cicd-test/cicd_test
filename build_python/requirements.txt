@@ -1,0 +1,19 @@
+--index-url http://admin:cloud1234@nexus.viola.middleware.okestro.cloud:32080/repository/pypi-public/simple/
+--trusted-host nexus.viola.middleware.okestro.cloud
+blinker
+cffi
+click
+cryptography
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+packaging
+pycparser
+Werkzeug
+wheel
+pytest
+iniconfig
+pluggy
+pygments
+gunicorn
